@@ -1,0 +1,290 @@
+{
+  "profile": "tabular-data-package",
+  "resources": [
+    {
+      "name": "Cantons 2016",
+      "path": "je-d-01.08.01.02-2016-kantone.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "Ständige Wohnbevölkerung ab 15 Jahren 1) nach Hauptsprache und Kantonen, 2016",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "field2",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "field3",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "field4",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "field5",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "field6",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "field7",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "field8",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "field9",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "field10",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "field11",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "field12",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "field13",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "field14",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "field15",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "field16",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "field17",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "field18",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "field19",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "field20",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "field21",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "field22",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "field23",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "T 01.08.01.02",
+            "type": "any",
+            "format": "default"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Cities 2016",
+      "path": "je-d-01.08.01.02-2016-stadte.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "Ständige Wohnbevölkerung ab 15 Jahren 1) nach Hauptsprache und grosse Städte, 2016",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "field2",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "field3",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "field4",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "field5",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "field6",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "field7",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "field8",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "field9",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "field10",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "field11",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "field12",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "field13",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "field14",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "field15",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "field16",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "field17",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "field18",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "field19",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "field20",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "field21",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "field22",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "field23",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "field24",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "T 01.08.01.02",
+            "type": "any",
+            "format": "default"
+          }
+        ]
+      }
+    }
+  ],
+  "keywords": [
+    "Language",
+    "Statistics",
+    "Population"
+  ],
+  "name": "swiss-population-languages",
+  "title": "Statistics on the languages of Swiss residents",
+  "description": "Permanent resident population aged 15 and over by main language, canton and city.\n\nOriginal German: Ständige Wohnbevölkerung ab 15 Jahren nach Hauptsprachen, nach Kanton und Stadt",
+  "homepage": "https://opendata.swiss/en/dataset/standige-wohnbevolkerung-ab-15-jahren-nach-hauptsprachen-nach-kanton-und-stadt",
+  "contributors": [
+    {
+      "title": "schoolofdata.ch",
+      "role": "author"
+    }
+  ],
+  "licenses": [
+    {
+      "name": "ODC-PDDL-1.0",
+      "title": "Open Data Commons Public Domain Dedication and Licence 1.0",
+      "path": "http://www.opendefinition.org/licenses/odc-pddl"
+    }
+  ]
+}
