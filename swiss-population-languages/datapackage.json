@@ -1,0 +1,157 @@
+{
+  "profile": "tabular-data-package",
+  "resources": [
+    {
+      "name": "Cantons 2016",
+      "path": "1tgvkd7h6dhf.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "field1",
+            "type": "string",
+            "format": "default",
+            "title": "Canton"
+          },
+          {
+            "name": " Total",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": " Deutsch",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": " VI \nin % 2)",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": " Französisch",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": " VI \nin % 2)",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": " Italienisch",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": " VI \nin % 2)",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": " Rätoroma-",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": " VI \nin % 2)",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": " Englisch",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": " VI \nin % 2)",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": " Portugiesisch",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": " VI \nin % 2)",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": " Serbisch und",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": " VI \nin % 2)",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": " Albanisch",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": " VI \nin % 2)",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": " Spanisch",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": " VI \nin % 2)",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": " Türkisch",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": " VI \nin % 2)",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": " Übrige",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": " VI \nin % 2)",
+            "type": "integer",
+            "format": "default"
+          }
+        ]
+      }
+    }
+  ],
+  "keywords": [
+    "Language",
+    "Statistics",
+    "Population"
+  ],
+  "name": "swiss-population-languages",
+  "title": "Statistics on the languages of Swiss residents",
+  "description": "Permanent resident population aged 15 and over by main language, canton and city.\n\nOriginal German: Ständige Wohnbevölkerung ab 15 Jahren nach Hauptsprachen, nach Kanton und Stadt",
+  "homepage": "https://opendata.swiss/en/dataset/standige-wohnbevolkerung-ab-15-jahren-nach-hauptsprachen-nach-kanton-und-stadt",
+  "contributors": [
+    {
+      "title": "schoolofdata.ch",
+      "role": "author"
+    }
+  ],
+  "licenses": [
+    {
+      "name": "ODC-PDDL-1.0",
+      "title": "Open Data Commons Public Domain Dedication and Licence 1.0",
+      "path": "http://www.opendefinition.org/licenses/odc-pddl"
+    }
+  ]
+}
